@@ -1,0 +1,2 @@
+../Drivers/API/Scr/API_DWT_delay.c:15:6:DWT_Init	2
+../Drivers/API/Scr/API_DWT_delay.c:54:6:DWT_Delay	2

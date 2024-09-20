@@ -1,0 +1,8 @@
+API_I2C_LCD.c:27:6:lcd_send_cmd	1
+API_I2C_LCD.c:40:6:lcd_send_data	1
+API_I2C_LCD.c:53:6:lcd_clear	2
+API_I2C_LCD.c:62:6:lcd_put_cur	3
+API_I2C_LCD.c:78:6:lcd_init	1
+API_I2C_LCD.c:104:6:lcd_send_string	2
+API_I2C_LCD.c:110:6:enteroCad	3
+API_I2C_LCD.c:136:6:MX_I2C1_Init	2

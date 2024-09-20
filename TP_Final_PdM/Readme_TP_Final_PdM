@@ -1,0 +1,9 @@
+Asignatura: Programación de Microcontorladores 
+Carrera: CESE - Coorte 20 
+Autor: Mansilla Rubén Darío
+Placa utilizada: STM-NUCLEO-F413ZH
+
+Esta carpeta contiene la aplicacion del proyecto final para PdM y PCSE
+Primer commit: Funcionamiento ok del display LCD con driver i2c-lcd.c y
+i2c-lcd.h. Tambien se prueba fucniones de GPIO para el manejo de los 3
+leds de usuario de la placa. Funcionamiento ok

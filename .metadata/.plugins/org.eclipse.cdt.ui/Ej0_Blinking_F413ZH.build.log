@@ -1,0 +1,10 @@
+22:23:38 **** Incremental Build of configuration Debug for project Ej0_Blinking_F413ZH ****
+make -j4 all 
+arm-none-eabi-size   Ej0_Blinking_F413ZH.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11880	     20	   2932	  14832	   39f0	Ej0_Blinking_F413ZH.elf
+Finished building: default.size.stdout
+ 
+
+22:23:39 Build Finished. 0 errors, 0 warnings. (took 771ms)
+

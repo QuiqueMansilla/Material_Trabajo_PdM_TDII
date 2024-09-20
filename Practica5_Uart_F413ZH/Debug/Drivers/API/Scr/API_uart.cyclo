@@ -1,0 +1,5 @@
+API_uart.c:28:8:uartInit	2
+API_uart.c:63:6:uartSendString	2
+API_uart.c:74:6:uartSendStringSize	2
+API_uart.c:85:6:uartReceiveStringSize	2
+API_uart.c:97:6:showConfigUART	1

@@ -1,0 +1,10 @@
+22:43:29 **** Incremental Build of configuration Debug for project Tarea1_1_SecuenciaLeds_F413ZH ****
+make -j4 all 
+arm-none-eabi-size   Tarea1_1_SecuenciaLeds_F413ZH.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11916	     20	   2932	  14868	   3a14	Tarea1_1_SecuenciaLeds_F413ZH.elf
+Finished building: default.size.stdout
+ 
+
+22:43:30 Build Finished. 0 errors, 0 warnings. (took 744ms)
+

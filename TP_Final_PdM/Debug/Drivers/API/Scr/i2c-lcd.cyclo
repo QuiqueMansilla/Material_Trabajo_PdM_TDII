@@ -1,0 +1,6 @@
+../Drivers/API/Scr/i2c-lcd.c:15:6:lcd_send_cmd	1
+../Drivers/API/Scr/i2c-lcd.c:28:6:lcd_send_data	1
+../Drivers/API/Scr/i2c-lcd.c:41:6:lcd_clear	2
+../Drivers/API/Scr/i2c-lcd.c:50:6:lcd_put_cur	3
+../Drivers/API/Scr/i2c-lcd.c:66:6:lcd_init	1
+../Drivers/API/Scr/i2c-lcd.c:92:6:lcd_send_string	2
